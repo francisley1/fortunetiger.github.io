@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to left, green, yellow);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.img img{
+    padding: 20px;
+}
+
+.form-form button{
+    padding: 10px 20px;
+    width: 40%;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: black;
+    font-size: 15px;
+    color: aquamarine;
+    letter-spacing: 2px;
+}
+
+.img label{
+    display: block;
+    font-size: 20px;
+    color: blue;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+
+.form-form a{
+    display: block;
+    margin: 10px;
+ 
+}
